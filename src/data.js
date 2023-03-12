@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Business Sales Insight",
+    subtitle: "Data Warehouse and Visualization",
     description:
-      "Lorem ipsum dolor sitttttrttttt amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Implemented a Data Warehouse, performed ETL operations and created dashboards.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ankittejyadav/Sales-Insights-Tableau",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Quantum Canvas",
+    subtitle: "Quantum",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Generative art on IonQ's Quantum hardware",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ankittejyadav/Schrodingers-Ket",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Simple Web App",
+    subtitle: "Simple App",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Demo website created for HackHarvard",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ankittejyadav/Hi-Name",
   },
   {
     title: "Epic Todo App",
-    subtitle: "React Hooks",
+    subtitle: "Web3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Blockchain based aplication",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ankittejyadav/Ecrypto",
   },
 ];
 
